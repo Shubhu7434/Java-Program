@@ -17,7 +17,7 @@ public class ArrayListSortDescendingOrder {
 		
 		Collections.sort(number , Collections.reverseOrder());
 		
-		System.out.println("Ascensing Order Array:" +number);
+		System.out.println("Descending Order Array:" +number);
 		
 	}
 
